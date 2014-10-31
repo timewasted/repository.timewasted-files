@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="plugin.video.xbmc-nhl-gamecenter" name="NHL GameCenter" version="0.0.8" provider-name="Timewasted">
+	<addon id="plugin.video.xbmc-nhl-gamecenter" name="NHL GameCenter" version="0.0.9" provider-name="Timewasted">
 		<requires>
 			<import addon="xbmc.python" version="2.14.0"/>
 			<import addon="script.module.requests" version="2.3.0"/>
@@ -16,7 +16,7 @@
 			<language>en</language>
 			<platform>all</platform>
 			<license>BSD</license>
-			<forum></forum>
+			<forum>http://forum.kodi.tv/showthread.php?tid=207178</forum>
 			<website>https://github.com/timewasted/xbmc-nhl-gamecenter</website>
 			<source>https://github.com/timewasted/xbmc-nhl-gamecenter</source>
 			<email>ryan@timewasted.me</email>
