@@ -22,7 +22,7 @@
 			<email>ryan@timewasted.me</email>
 		</extension>
 	</addon>
-	<addon id="plugin.video.xbmc-nhl-gamecenter-dev" name="NHL GameCenter (dev)" version="0.0.0" provider-name="Timewasted">
+	<addon id="plugin.video.xbmc-nhl-gamecenter-dev" name="NHL GameCenter (dev)" version="0.0.1" provider-name="Timewasted">
 		<requires>
 			<import addon="xbmc.python" version="2.14.0"/>
 			<import addon="script.module.requests" version="2.3.0"/>
