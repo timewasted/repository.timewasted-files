@@ -24,7 +24,7 @@
 			<email>ryan@timewasted.me</email>
 		</extension>
 	</addon>
-	<addon id="service.nhl-hls-proxy" name="NHL HLS Proxy" version="0.0.2" provider-name="Timewasted">
+	<addon id="service.nhl-hls-proxy" name="NHL HLS Proxy" version="0.0.3" provider-name="Timewasted">
 		<requires>
 			<import addon="xbmc.python" version="2.14.0"/>
 			<import addon="script.module.m3u8" version="0.2.2"/>
